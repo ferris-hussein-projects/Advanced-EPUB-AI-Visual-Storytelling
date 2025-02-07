@@ -9,7 +9,7 @@ This project was inspired by my wife, who often showed me amazing fan art of her
 - **Summarize the most prominent characters**
 - **Generate AI-based character portraits and scene illustrations**
 - **Reconstruct the EPUB** by inserting the generated images
-- **Convert the final EPUB to MOBI format for compression and compatibility with various e-readers**  
+- **Convert the final EPUB to MOBI, AWZ3 and PDF format for compression and compatibility with various e-readers**  
 
 This project enhances **traditional reading experiences** by making books **more immersive and visually engaging**.
 
