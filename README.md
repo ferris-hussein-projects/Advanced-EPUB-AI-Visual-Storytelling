@@ -22,14 +22,14 @@ This project enhances **traditional reading experiences** by making books **more
 - Identifies **top N most relevant characters** for visualization  
 - **Uses a pretrained Transformer-based NLP model (`en_core_web_trf`)** to extract **PERSON entities** from text  
 
-### 📝 **Character Summarization & Correction**
+### **Character Summarization & Correction**
 - Aggregates **textual descriptions** of characters from the book  
 - Generates **concise AI-driven summaries**
 - Ensures accuracy in **physical traits (hair color, eye color, skin tone, personality, etc.)**  
 - **Interactive Editing:** Users can **edit and refine** AI-generated summaries directly in the app before finalizing character portraits  
 - Corrects inconsistencies by **merging duplicate names** (e.g., "Jon" vs. "Jonathan")  
 
-### 🎭 AI-Generated Portraits & Scenes  
+### AI-Generated Portraits & Scenes  
 - Uses **DALL·E** to create **highly detailed, fantasy-style portraits**
 - Generates **scenic images** for key moments in the book
 - Ensures AI-generated visuals match the story’s **tone and descriptions**
@@ -38,7 +38,7 @@ This project enhances **traditional reading experiences** by making books **more
   - **Modify the character or scene descriptions** in the respective JSON files before retrying.
   - **Refine prompts** to avoid restricted content.
 
-### 📚 **EPUB Reconstruction, Customization & MOBI Conversion**
+### **EPUB Reconstruction, Customization & MOBI Conversion**
 - **Inserts character portraits** at the start of the book  
 - **Places scene illustrations** immediately after their respective chapters  
 - **Allows users to select a character portrait as the book cover**  
@@ -47,19 +47,19 @@ This project enhances **traditional reading experiences** by making books **more
   - **Compatibility with Kindle and other e-readers**
   - **Reduced file size for easier sharing and storage**  
 
-### 🖼️ **Streamlit-Based Interactive Web UI**
+### **Streamlit-Based Interactive Web UI**
 - **No complex setup needed**—just open in a browser and use a simple UI  
 - **Step-by-step guidance** to streamline the process from upload to EPUB reconstruction  
 - Users can **modify AI-generated summaries**, **select key characters**, and **review generated images**  
 - Provides an **image gallery** for reviewing character portraits and scene illustrations before EPUB finalization  
 
-### 🔑 **Custom API Key Input & Model Configuration**
+### **Custom API Key Input & Model Configuration**
 - Users can **enter their own OpenAI API keys** for model access  
 - The app **supports modifying model variables**, allowing users to select different AI models  
 - Models used in this project:
   - **GPT-4o** (used for character summarization)
   - **DALL·E 3** (used for character portraits and scene images)
-- 💰 **Note:** Different models have different pricing structures—**API charges apply based on OpenAI's pricing model.**  
+- **Note:** Different models have different pricing structures—**API charges apply based on OpenAI's pricing model.**  
 - ⚠ **Handling API Denials:**  
   - If OpenAI **flags content as a violation**, the image **will not be generated**.  
   - If this happens, users can:
