@@ -1,0 +1,8 @@
+beautifulsoup4==4.13.1
+ebooklib==0.18
+fuzzywuzzy==0.18.0
+openai==1.61.0
+requests==2.32.3
+spacy==3.8.4
+streamlit==1.42.0
+python-Levenshtein==0.26.1  # Required for fuzzywuzzy to work properly
