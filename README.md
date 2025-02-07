@@ -1,7 +1,3 @@
-Got it! Here’s the **README.md** without the mention of `safe_prefix`, keeping everything else intact:
-
----
-
 # **Advanced EPUB AI: Visual Storytelling**
 
 ## **Overview**
