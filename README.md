@@ -1,7 +1,7 @@
 # **Advanced EPUB AI: Visual Storytelling**
 
 ## **Overview**
-This project was inspired by my wife, who often showed me amazing fan art of her favorite books on TikTok. Seeing how much joy she found in those visual interpretations, I wanted to create a tool that could **automate the process of bringing book characters and scenes to life** using AI-generated images.  
+This project was inspired by my wife, who often showed me amazing fan art of her favorite books on TikTok. Seeing how much joy she found in those visual interpretations, I wanted to create a tool that could **automate the process of bringing book characters and scenes to life** using AI-generated images.   
 
 **Advanced EPUB AI: Visual Storytelling** is an **interactive, web-based application** that allows users to:
 - **Upload an EPUB book**
